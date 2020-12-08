@@ -11,7 +11,8 @@
     "packages/*"
   ],
   "scripts": {
-    "salary": "yarn workspace salary"
+    "salary": "yarn workspace salary",
+    "utils": "yarn workspace utils"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
