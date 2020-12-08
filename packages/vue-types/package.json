@@ -1,0 +1,8 @@
+{
+  "name": "vue-types",
+  "version": "1.0.1",
+  "types": "./vue-global.d.ts",
+  "devDependencies": {
+    "vue": "2.6.12"
+  }
+}
