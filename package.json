@@ -4,6 +4,7 @@
     "name": "whj",
     "email": "emailwen@qq.com"
   },
+  "repository": "https://github.com/wenhongjie/vue-dev-frame",
   "license": "MIT",
   "version": "1.0.0",
   "workspaces": [

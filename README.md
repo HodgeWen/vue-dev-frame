@@ -8,8 +8,8 @@
 
 ## 关于开发规范
 
-- [前后端对接规范以及常用字段约定](http://118.190.140.38:4999/web/#/6?page_id=155)
-- [前端规范](http://118.190.140.38:4999/web/#/6?page_id=110)
+- [前后端对接规范以及常用字段约定](./docs/dock-standard.md)
+- [前端规范](./docs/fe-standard.md)
 - [BEM规范](https://bemcss.com/)
 - [vue2.x风格指南](https://cn.vuejs.org/v2/style-guide/)
 
