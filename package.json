@@ -8,7 +8,8 @@
   "license": "MIT",
   "version": "1.0.0",
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "packages/@projects/*"
   ],
   "scripts": {
     "salary": "yarn workspace salary",
