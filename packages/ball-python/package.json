@@ -1,0 +1,13 @@
+{
+  "name": "ball-python",
+  "version": "1.0.0",
+  "types": "./vue-types/vue-global.d.ts",
+  "devDependencies": {
+    "vue": "2.6.12"
+  },
+  "dependencies": {
+    "element-ui": "^2.14.1",
+    "axios": "^0.21.0",
+    "babel-plugin-component": "1.1.1"
+  }
+}

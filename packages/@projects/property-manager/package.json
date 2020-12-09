@@ -1,15 +1,15 @@
 {
-  "name": "salary",
+  "name": "property-manager",
   "version": "1.0.0",
   "scripts": {
     "dev": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "ball-python": "1.0.0",
     "core-js": "^3.8.1",
     "vue": "^2.6.12",
     "vue-router": "^3.4.9",
-    "vue-types": "1.0.1",
     "vuex": "^3.6.0"
   },
   "devDependencies": {

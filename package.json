@@ -12,7 +12,7 @@
     "packages/@projects/*"
   ],
   "scripts": {
-    "salary": "yarn workspace salary",
+    "property": "yarn workspace property-manager",
     "utils": "yarn workspace utils"
   },
   "devDependencies": {

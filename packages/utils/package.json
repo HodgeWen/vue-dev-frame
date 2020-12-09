@@ -1,8 +1,0 @@
-{
-  "name": "utils",
-  "version": "1.0.0",
-  "description": "为其他项目提供http请求等常用库",
-  "dependencies": {
-    "axios": "^0.21.0"
-  }
-}
